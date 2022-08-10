@@ -1,6 +1,6 @@
 # machine-learning-digit-recognizer
 
-MNIST Digit Recognizer with Machine Learning
+MNIST Digit Recognizer with Machine Learning (CNN, MLP, KNN, SVM, Decision Tree, Random Forest)
 
 https://www.kaggle.com/competitions/digit-recognizer
 
